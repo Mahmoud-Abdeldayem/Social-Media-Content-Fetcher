@@ -1,0 +1,11 @@
+D:\FCAI_Level_4_S_1\Parallel Processing\Social_Media_Fetcher\SocialMediaFetcher\ServiceLayer\bin\Debug\net8.0\ServiceLayer.deps.json
+D:\FCAI_Level_4_S_1\Parallel Processing\Social_Media_Fetcher\SocialMediaFetcher\ServiceLayer\bin\Debug\net8.0\ServiceLayer.dll
+D:\FCAI_Level_4_S_1\Parallel Processing\Social_Media_Fetcher\SocialMediaFetcher\ServiceLayer\bin\Debug\net8.0\ServiceLayer.pdb
+D:\FCAI_Level_4_S_1\Parallel Processing\Social_Media_Fetcher\SocialMediaFetcher\ServiceLayer\obj\Debug\net8.0\ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\FCAI_Level_4_S_1\Parallel Processing\Social_Media_Fetcher\SocialMediaFetcher\ServiceLayer\obj\Debug\net8.0\ServiceLayer.AssemblyInfoInputs.cache
+D:\FCAI_Level_4_S_1\Parallel Processing\Social_Media_Fetcher\SocialMediaFetcher\ServiceLayer\obj\Debug\net8.0\ServiceLayer.AssemblyInfo.cs
+D:\FCAI_Level_4_S_1\Parallel Processing\Social_Media_Fetcher\SocialMediaFetcher\ServiceLayer\obj\Debug\net8.0\ServiceLayer.csproj.CoreCompileInputs.cache
+D:\FCAI_Level_4_S_1\Parallel Processing\Social_Media_Fetcher\SocialMediaFetcher\ServiceLayer\obj\Debug\net8.0\ServiceLayer.dll
+D:\FCAI_Level_4_S_1\Parallel Processing\Social_Media_Fetcher\SocialMediaFetcher\ServiceLayer\obj\Debug\net8.0\refint\ServiceLayer.dll
+D:\FCAI_Level_4_S_1\Parallel Processing\Social_Media_Fetcher\SocialMediaFetcher\ServiceLayer\obj\Debug\net8.0\ServiceLayer.pdb
+D:\FCAI_Level_4_S_1\Parallel Processing\Social_Media_Fetcher\SocialMediaFetcher\ServiceLayer\obj\Debug\net8.0\ref\ServiceLayer.dll
